@@ -10,3 +10,5 @@ int main()
   printf("%d\n", p);
   return 0;
 }
+
+// Resposta: Apenas as expressões x = (*mat)++ e p = mat + 1 são válidas, pois mat++ e ++mat não são capazes de incrementar o valor de mat.
